@@ -1,1 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Emeritus Professor Changkyu  Choi, Department of Economics, Myongji University</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
+    <h1>Prof. Changkyu Choi</h1>
+    <h2>Department of Economics, Myongji University</h2>
+
+    <p>
+        Welcome to my personal academic homepage.
+    </p>
+
+    <hr>
+
+    <ul>
+        <li><a href="#">Research</a></li>
+        <li><a href="#">Teaching</a></li>
+        <li><a href="#">Publications</a></li>
+        <li><a href="#">CV</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+
+</body>
+</html>
