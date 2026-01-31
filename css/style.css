@@ -1,0 +1,15 @@
+body {
+  font-family: "Noto Sans KR", Arial, sans-serif;
+  line-height: 1.7;
+  margin: 40px;
+}
+
+nav a {
+  margin-right: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
